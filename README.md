@@ -8,7 +8,9 @@
 
 ## Objective
 ```md
-Build a Node command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each employee
+Build a Node command-line application that takes in information 
+about employees on a software engineering team and generates an HTML webpage
+that displays summaries for each employee
 ```
 
 ## User Story
